@@ -2,7 +2,7 @@
 
 Not really a dashboard yet, will be eventually.
 
-This has some of the analysis/visualizations done using data from my [HPI](https://github.com/seanbreckenridge/HPI)
+This has some of the analysis/visualizations done using data from my [HPI](https://github.com/purarue/HPI)
 
 ![map](./images/map.png)
 
